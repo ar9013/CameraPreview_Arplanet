@@ -1,0 +1,7 @@
+#Thu Dec 08 12:00:01 CST 2016
+base.0=/Users/luokangyu/libgdxProjects/OpenCV Tutorial 1 - Camera Preview/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a9b323ecd3c344ac00326820398b69038a872e5b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/luokangyu/libgdxProjects/OpenCV Tutorial 1 - Camera Preview/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0c857f68ac8d98d8df6806b27b7311dc35b8e60/classes.dex
+base.1=/Users/luokangyu/libgdxProjects/OpenCV Tutorial 1 - Camera Preview/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0c857f68ac8d98d8df6806b27b7311dc35b8e60
+file.0=/Users/luokangyu/libgdxProjects/OpenCV Tutorial 1 - Camera Preview/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a9b323ecd3c344ac00326820398b69038a872e5b/classes.dex

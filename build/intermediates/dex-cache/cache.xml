@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/luokangyu/libgdxProjects/OpenCV Tutorial 1 - Camera Preview/openCVTutorial1CameraPreview/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="038720443b93deba1c69cf11cd438976a3838ee3">
+        <dex dex="/Users/luokangyu/libgdxProjects/OpenCV Tutorial 1 - Camera Preview/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a9b323ecd3c344ac00326820398b69038a872e5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luokangyu/libgdxProjects/OpenCV Tutorial 1 - Camera Preview/openCVTutorial1CameraPreview/libs/android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6c138ba72ce38beda559df33d369856854fd6f5">
+        <dex dex="/Users/luokangyu/libgdxProjects/OpenCV Tutorial 1 - Camera Preview/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_0d469f17988a461a1fe3656fda8ed50f2098220b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luokangyu/libgdxProjects/OpenCV Tutorial 1 - Camera Preview/openCVTutorial1CameraPreview/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ab428e3294bb8f41c000cf13b3e283c8088d4469">
+        <dex dex="/Users/luokangyu/libgdxProjects/OpenCV Tutorial 1 - Camera Preview/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0c857f68ac8d98d8df6806b27b7311dc35b8e60/classes.dex" />
+    </item>
+
+</items>
